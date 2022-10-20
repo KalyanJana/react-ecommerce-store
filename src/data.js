@@ -43,7 +43,111 @@ export const storeProducts=[
         count:0,
         total:0,
 
-      }
+      },
+      {
+         id:5,
+         title:"Google Pixle -Bluck",
+         img:"img/mobile4.jpg",
+         price:10,
+         company:"Google",
+         info:"This is a info section of goodle pixle mobile phone if you buy this set you will find so many featchers that you can enjoy." ,  
+         inCart:false,
+         count:0,
+         total:0,
+ 
+       },
+       {
+         id:6,
+         title:"Google Pixle -Bluck",
+         img:"img/mobile4.jpg",
+         price:10,
+         company:"Google",
+         info:"This is a info section of goodle pixle mobile phone if you buy this set you will find so many featchers that you can enjoy." ,  
+         inCart:false,
+         count:0,
+         total:0,
+ 
+       },
+       {
+         id:7,
+         title:"Google Pixle -Bluck",
+         img:"img/mobile3.jpg",
+         price:10,
+         company:"Google",
+         info:"This is a info section of goodle pixle mobile phone if you buy this set you will find so many featchers that you can enjoy.",   
+         inCart:false,
+         count:0,
+         total:0
+       },
+       {
+         id:8,
+         title:"Google Pixle -Bluck",
+         img:"img/mobile3.jpg",
+         price:10,
+         company:"Google",
+         info:"This is a info section of goodle pixle mobile phone if you buy this set you will find so many featchers that you can enjoy.",   
+         inCart:false,
+         count:0,
+         total:0
+       },
+       {
+         id:9,
+         title:"Google Pixle -Bluck",
+         img:"img/mobile4.jpg",
+         price:10,
+         company:"Google",
+         info:"This is a info section of goodle pixle mobile phone if you buy this set you will find so many featchers that you can enjoy." ,  
+         inCart:false,
+         count:0,
+         total:0,
+ 
+       },
+       {
+          id:10,
+          title:"Google Pixle -Bluck",
+          img:"img/mobile4.jpg",
+          price:10,
+          company:"Google",
+          info:"This is a info section of goodle pixle mobile phone if you buy this set you will find so many featchers that you can enjoy." ,  
+          inCart:false,
+          count:0,
+          total:0,
+  
+        },
+        {
+          id:11,
+          title:"Google Pixle -Bluck",
+          img:"img/mobile4.jpg",
+          price:10,
+          company:"Google",
+          info:"This is a info section of goodle pixle mobile phone if you buy this set you will find so many featchers that you can enjoy." ,  
+          inCart:false,
+          count:0,
+          total:0,
+  
+        },
+        {
+          id:12,
+          title:"Google Pixle -Bluck",
+          img:"img/mobile3.jpg",
+          price:10,
+          company:"Google",
+          info:"This is a info section of goodle pixle mobile phone if you buy this set you will find so many featchers that you can enjoy.",   
+          inCart:false,
+          count:0,
+          total:0
+        },
+        {
+          id:13,
+          title:"Google Pixle -Bluck",
+          img:"img/mobile3.jpg",
+          price:10,
+          company:"Google",
+          info:"This is a info section of goodle pixle mobile phone if you buy this set you will find so many featchers that you can enjoy.",   
+          inCart:false,
+          count:0,
+          total:0
+        },
 ];
 
 export const detailProduct={
